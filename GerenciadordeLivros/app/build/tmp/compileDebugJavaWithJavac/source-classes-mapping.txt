@@ -1,0 +1,22 @@
+com/example/gerenciadordelivros/dominio/Livro.java
+ com.example.gerenciadordelivros.dominio.Livro
+com/example/gerenciadordelivros/data/LivroContract.java
+ com.example.gerenciadordelivros.data.LivroContract
+ com.example.gerenciadordelivros.data.LivroContract$Colums
+com/example/gerenciadordelivros/data/DBHelper.java
+ com.example.gerenciadordelivros.data.DBHelper
+com/example/gerenciadordelivros/adapter/LivroAdapter.java
+ com.example.gerenciadordelivros.adapter.LivroAdapter
+ com.example.gerenciadordelivros.adapter.LivroAdapter$LivroHolder
+ com.example.gerenciadordelivros.adapter.LivroAdapter$OnLivroListener
+com/example/gerenciadordelivros/BuildConfig.java
+ com.example.gerenciadordelivros.BuildConfig
+com/example/gerenciadordelivros/data/LivroDAO.java
+ com.example.gerenciadordelivros.data.LivroDAO
+com/example/gerenciadordelivros/view/EditarLivroActivity.java
+ com.example.gerenciadordelivros.view.EditarLivroActivity
+com/example/gerenciadordelivros/dialog/DeleteDialog.java
+ com.example.gerenciadordelivros.dialog.DeleteDialog
+ com.example.gerenciadordelivros.dialog.DeleteDialog$OnDeleteListener
+com/example/gerenciadordelivros/view/MainActivity.java
+ com.example.gerenciadordelivros.view.MainActivity
